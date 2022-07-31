@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning PYthon , react.
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me +91 9979582831
+- 📫 How to reach me 
 -
 
 <!---
