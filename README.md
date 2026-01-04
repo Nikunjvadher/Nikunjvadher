@@ -60,11 +60,11 @@ I approach engineering with a **product mindset**, focusing on clarity, maintain
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikunjvadher&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nikunjvadher&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nikunjvadher&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjvadher&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjvadher&theme=dark&hide_border=false&layout=compact)
 
 ---
 
